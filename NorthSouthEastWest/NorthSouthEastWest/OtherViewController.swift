@@ -11,6 +11,7 @@ import UIKit
 class OtherViewController: UIViewController {
 
     @IBOutlet weak var displayLocationLabel: UIButton!
+    
     var output: String? = ""
 
     override func viewDidLoad() {
